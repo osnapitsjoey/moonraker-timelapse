@@ -43,7 +43,7 @@ add following to your 'moonraker.conf'
 type: git_repo
 primary_branch: main
 path: ~/moonraker-timelapse
-origin: https://github.com/mainsail-crew/moonraker-timelapse.git
+origin: https://github.com/osnapitsjoey/moonraker-timelapse.git
 managed_services: klipper moonraker
 ```
 
