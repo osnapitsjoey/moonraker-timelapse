@@ -11,7 +11,7 @@ execute following commands:
 
 ```
 cd ~/
-git clone https://github.com/mainsail-crew/moonraker-timelapse.git
+git clone https://github.com/osnapitsjoey/moonraker-timelapse.git
 cd ~/moonraker-timelapse
 make install
 ```
